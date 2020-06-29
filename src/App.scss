@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,200&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+.App {
+  display: flex;
+  background: #F0F0F7;
+
+  h1 {
+    font-size: 28px;
+    font-weight: 400;
+    margin: 30px 75px;
+    color: #43425D;
+  }
+
+  i {
+    font-style: normal !important;
+  }
+}

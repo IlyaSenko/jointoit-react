@@ -1,0 +1,135 @@
+.Popup {
+  background: white;
+  border: 1px solid #43425D;
+  padding: 0.5vw 1.5vw 2vw;
+  z-index: 2;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  transform: translate(-50%, 11px);
+
+  &__cross {
+    position: absolute;
+    color: #D6D6D6;
+    width: 1vw !important;
+    height: 1vw !important;
+    top: 6px;
+    right: 6px;
+    cursor: pointer;
+  }
+
+  &__triangle {
+    position: absolute;
+    top: -11px;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  .MuiInputAdornment-positionEnd svg {
+    color: #D6D6D6;
+    width: 16px;
+    height: 16px;
+  }
+
+  input {
+    font-size: 0.63vw !important;
+    color: #43425D !important;
+  }
+
+  label.MuiFormLabel-filled {
+    display: none;
+  }
+
+  .MuiFormLabel-root.Mui-focused {
+    display: none;
+  }
+
+  .MuiInputLabel-formControl {
+    transform: translate(0, 14px) scale(1) !important;
+  }
+
+  .MuiInputBase-root {
+    width: 9.25vw;
+  }
+
+  .MuiInputLabel-animated {
+    font-size: 0.63vw !important;
+    color: #D6D6D6;
+  }
+
+  &__datepickerContainer .MuiIconButton-root {
+    padding: 0 !important;
+  }
+
+  &__checkbox .MuiFormControlLabel-label {
+    font-size: 0.82vw !important;
+    color: #43425D !important;
+    padding-top: 1vw !important;
+  }
+
+  label + .MuiInput-formControl {
+    margin-top: 1vw !important;
+  }
+
+  .MuiSvgIcon-root {
+    width: 1vw !important;
+    height: 1vw !important;
+  }
+
+  .PrivateSwitchBase-root-1 {
+    padding: 1vw 9px 0 !important;
+  }
+
+  &__timeContainer {
+    position: relative;
+
+    svg {
+      position: absolute;
+      right: 0;
+      bottom: 0.3vw;
+      color: #D6D6D6;
+      width: 1vw !important;
+      height: 1vw !important;
+    }
+  }
+
+  &__note {
+    // font-weight: 200;
+    // font-style: italic;
+  }
+
+  &__controls {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 2.3vw;
+
+    button {
+      border: none;
+      padding: 0;
+      font-size: 0.82vw !important;
+      text-transform: uppercase;
+      cursor: pointer;
+      color: #6A6996;
+    }
+
+    &__cancel {
+      color: #FF5F5F !important;
+    }
+  }
+
+  .MuiFormControl-marginNormal {
+    margin: 0 !important;
+  }
+
+  .MuiCheckbox-colorPrimary {
+    // padding: 9px 9px 0;
+  }
+
+  &__item {
+    // margin: 0 0 20.5px 0 !important;
+  }
+}
+
+.MuiInput-underline:before {
+  border-bottom: 1px solid #43425D80 !important;
+}
