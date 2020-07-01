@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jointoit-react/static/css/main.f994b908.chunk.css",
+    "main.css": "/jointoit-react/static/css/main.be808685.chunk.css",
     "main.js": "/jointoit-react/static/js/main.04bd7d85.chunk.js",
     "main.js.map": "/jointoit-react/static/js/main.04bd7d85.chunk.js.map",
     "runtime-main.js": "/jointoit-react/static/js/runtime-main.9cbcfed0.js",
@@ -9,10 +9,10 @@
     "static/js/2.c2fdbb0f.chunk.js": "/jointoit-react/static/js/2.c2fdbb0f.chunk.js",
     "static/js/2.c2fdbb0f.chunk.js.map": "/jointoit-react/static/js/2.c2fdbb0f.chunk.js.map",
     "index.html": "/jointoit-react/index.html",
-    "precache-manifest.f331afdf89dad49b4f16ca132c8b0663.js": "/jointoit-react/precache-manifest.f331afdf89dad49b4f16ca132c8b0663.js",
+    "precache-manifest.cfc344f7e9d5b4f2970d04190bc1093b.js": "/jointoit-react/precache-manifest.cfc344f7e9d5b4f2970d04190bc1093b.js",
     "service-worker.js": "/jointoit-react/service-worker.js",
     "static/css/2.871674e1.chunk.css.map": "/jointoit-react/static/css/2.871674e1.chunk.css.map",
-    "static/css/main.f994b908.chunk.css.map": "/jointoit-react/static/css/main.f994b908.chunk.css.map",
+    "static/css/main.be808685.chunk.css.map": "/jointoit-react/static/css/main.be808685.chunk.css.map",
     "static/js/2.c2fdbb0f.chunk.js.LICENSE.txt": "/jointoit-react/static/js/2.c2fdbb0f.chunk.js.LICENSE.txt",
     "static/media/arrow.svg": "/jointoit-react/static/media/arrow.e1ad04b9.svg",
     "static/media/avatar.png": "/jointoit-react/static/media/avatar.84b85e8d.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.9cbcfed0.js",
     "static/css/2.871674e1.chunk.css",
     "static/js/2.c2fdbb0f.chunk.js",
-    "static/css/main.f994b908.chunk.css",
+    "static/css/main.be808685.chunk.css",
     "static/js/main.04bd7d85.chunk.js"
   ]
 }

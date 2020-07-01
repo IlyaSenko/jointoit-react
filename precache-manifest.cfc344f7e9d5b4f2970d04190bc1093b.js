@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a097e2dacc6e1042f2f3a47d31acc77b",
+    "revision": "1c29213de2c2288c8b51b7e3f761b6e4",
     "url": "/jointoit-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jointoit-react/static/css/2.871674e1.chunk.css"
   },
   {
-    "revision": "dc9b360757c7aaf04c5a",
-    "url": "/jointoit-react/static/css/main.f994b908.chunk.css"
+    "revision": "4abbfbfeee24876505ef",
+    "url": "/jointoit-react/static/css/main.be808685.chunk.css"
   },
   {
     "revision": "fbb17df5ec9c5cb695f9",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jointoit-react/static/js/2.c2fdbb0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc9b360757c7aaf04c5a",
+    "revision": "4abbfbfeee24876505ef",
     "url": "/jointoit-react/static/js/main.04bd7d85.chunk.js"
   },
   {
