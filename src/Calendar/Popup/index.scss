@@ -63,7 +63,11 @@
   &__checkbox .MuiFormControlLabel-label {
     font-size: 0.82vw !important;
     color: #43425D !important;
-    // padding-top: 1vw !important;
+    padding-top: 1.1vw !important;
+  }
+
+  .MuiCheckbox-colorPrimary {
+    padding-bottom: 0 !important;
   }
 
   label + .MuiInput-formControl {
